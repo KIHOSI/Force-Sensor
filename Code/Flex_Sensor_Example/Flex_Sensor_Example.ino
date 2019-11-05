@@ -19,7 +19,7 @@ const int FLEX_PIN = A0; // Pin connected to voltage divider output
 // Measure the voltage at 5V and the actual resistance of your
 // 47k resistor, and enter them below:
 const float VCC = 4.98; // Measured voltage of Ardunio 5V line
-const float R_DIV = 47500.0; // Measured resistance of 3.3k resistor
+const float R_DIV = 47500.0; 
 
 // Upload the code, then try to adjust these values to more
 // accurately calculate bend degree.
